@@ -1,4 +1,11 @@
 ### Hi there 👋
+# webpage
+
+ようこそ、見習いエンジニアの備忘録へ。
+皆さんの技術力向上の源に少しでも力になれたら幸いです。
+よろしくお願いいたします。
+
+
 
 <!--
 **kissshot-skup/kissshot-skup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
